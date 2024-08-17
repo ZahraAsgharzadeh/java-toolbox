@@ -1,5 +1,6 @@
 # java-toolbox
 A pure java toolbox for every java project !
+
 This package contains util classes which are mostly used in projects, like :
 * date/time convertors - date/time formatters
   * gregorian date to persian date
@@ -22,7 +23,9 @@ This package contains util classes which are mostly used in projects, like :
 ** It is based on java and no extra dependency is needed 🤗
 
 # جعبه ابزار جاوا
-جعبه ابزاری برای همه ی پروژه های جاوائی ! برای هر کدوم از این ابزار ها داخل توضیحات زیرش یک سری مثال استفاده هم گفته شده .
+جعبه ابزاری برای همه ی پروژه های جاوائی ! 
+
+برای هر کدوم از این ابزار ها داخل توضیحات زیرش یک سری مثال استفاده هم گفته شده .
 این پکیج شامل کلاس ها و متد هایی هست که عموما داخل پروژه هامون استفاده میشن :
 * مبدل تاریخ / زمان و تبدیل time zone 
     * تبدیل تاریخ میلادی به شمسی
