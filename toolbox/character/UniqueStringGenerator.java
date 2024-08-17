@@ -4,7 +4,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import toolbox.number.RandomNumber;
 
-public class GenerateUniqueString {
+public class UniqueStringGenerator {
 
     public String generateByDate() {
 

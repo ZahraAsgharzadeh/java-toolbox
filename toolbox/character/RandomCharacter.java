@@ -2,7 +2,7 @@ package toolbox.character;
 
 import toolbox.Variables;
 
-public class GenerateRandomCharacters {
+public class RandomCharacter {
 
     public String generateWithNumbers(int size) {
 
